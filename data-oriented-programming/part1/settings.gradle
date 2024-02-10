@@ -12,3 +12,4 @@ plugins {
 
 rootProject.name = 'data-oriented-bank'
 include('app')
+include('users')
